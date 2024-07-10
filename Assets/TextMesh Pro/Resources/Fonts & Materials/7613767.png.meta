@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: ba953778c92c206409ed0a090414392b
+guid: 666495955482d9544afb1fdfeb2c0dc6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5236328122904053610
-    second: gradient 1_0
+      213: 1940429093048189825
+    second: 7613767_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -152,23 +152,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gradient 1_0
+      name: 7613767_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 82
-        width: 1600
-        height: 1118
+        x: 191
+        y: 127
+        width: 150
+        height: 258
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a67851d3fac2ba840800000000000000
-      internalID: 5236328122904053610
+      spriteID: 18388f2baf9cdea10800000000000000
+      internalID: 1940429093048189825
       vertices: []
       indices: 
       edges: []
@@ -177,15 +177,14 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c08ba248c2d0bf5469e9ae81497d489d
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      gradient 1_0: 5236328122904053610
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
