@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424922303261",
+    "project_id": "auth-8e55c",
+    "storage_bucket": "auth-8e55c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424922303261:android:e469ead04027a2c2d1aff4",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3R72ZZ3G2h0PZieN16ehippC1YOdc6LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
